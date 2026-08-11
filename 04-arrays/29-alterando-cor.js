@@ -7,3 +7,5 @@ let cores = ["Azul", "Verde", "Amarelo"];
 
 // Escreva sua solução abaixo:
 
+cores.splice(1, 1, "Vermelho");
+console.log(cores);

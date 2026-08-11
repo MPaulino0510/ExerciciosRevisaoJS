@@ -4,3 +4,7 @@
 
 // Escreva sua solução abaixo:
 
+let cidades = [
+    "Osasco", "Carapicuíba", "Cotia", "Brasília", "São Paulo"
+]
+console.log(cidades);

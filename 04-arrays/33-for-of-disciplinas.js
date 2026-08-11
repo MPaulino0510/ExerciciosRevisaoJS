@@ -6,3 +6,6 @@ let disciplinas = ["Backend", "Frontend", "Banco de Dados", "Mobile"];
 
 // Escreva sua solução abaixo:
 
+for(let disciplina of disciplinas){
+     console.log(disciplina);
+}

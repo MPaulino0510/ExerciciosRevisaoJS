@@ -3,4 +3,9 @@
 // Ao final, mostre o resultado.
 
 // Escreva sua solução abaixo:
-
+let soma = 0;
+for(let i = 10; i >= 1; i-=2){
+    let j = i-1;
+    soma += i+j;
+    console.log(soma);
+}

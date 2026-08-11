@@ -7,3 +7,9 @@ let produtos = ["Notebook", "Mouse", "Monitor", "Teclado"];
 
 // Escreva sua solução abaixo:
 
+if(produtos.includes("Monitor")){
+    console.log("Produto disponível!");
+}
+else{
+    console.log("Produto não disponível.");
+}

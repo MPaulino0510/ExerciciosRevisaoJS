@@ -11,4 +11,8 @@
 // O laço deve parar depois da terceira tentativa.
 
 // Escreva sua solução abaixo:
-
+let tentativa = 1;
+while(tentativa < 4){
+    console.log(`Tentativa ${tentativa}`);
+    tentativa++
+}

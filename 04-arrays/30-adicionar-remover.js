@@ -8,3 +8,6 @@ let animais = ["Gato", "Cachorro", "Coelho"];
 
 // Escreva sua solução abaixo:
 
+animais.push("Peixe");
+animais.pop();
+console.log(animais);

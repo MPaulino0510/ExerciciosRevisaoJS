@@ -8,3 +8,9 @@
 
 // Escreva sua solução abaixo:
 
+const teclado = "Teclado";
+let preco = 100;
+let quantidade = 2;
+let total = preco * quantidade;
+
+console.log(`O ${teclado} vale ${preco}RS, logo, se tiver ${quantidade} teclados, custará: ${total}RS.`);

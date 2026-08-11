@@ -8,3 +8,6 @@ let tarefas = ["Estudar", "Treinar"];
 
 // Escreva sua solução abaixo:
 
+tarefas.unshift("Tomar café");
+tarefas.shift();
+console.log(tarefas);
